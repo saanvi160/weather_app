@@ -1,0 +1,8 @@
+{
+    "git.scanRepositories": [
+        "C:\\Program Files\\Git\\cmd\\git.exe"
+    ],
+    "git.commandsToLog": [
+        "C:\\Program Files\\Git\\cmd\\git.exe"
+    ]
+}
